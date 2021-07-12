@@ -1,1 +1,5 @@
-this is a collection of a few programms i wrote during my lasts year
+this is a collection of a few programms i wrote during my lasts year.
+
+MyRPG is a RPG adventure game created with CSFML
+matchstick is a replika of the game NIM where you can play against an unbeatable AI
+MySokoban is puzzle game created with the ncurses graphical library
